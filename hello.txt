@@ -6,7 +6,7 @@ hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!
-hello aiguigu! hello git!hot-fix
+hello aiguigu! hello git!hot-fix test update -new
 hello aiguigu! hello git!
 hello aiguigu! hello git!
 hello aiguigu! hello git!aaaaaaaaaaaaaaaaaaaaaaaaaaaa
